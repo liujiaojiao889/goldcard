@@ -1,0 +1,28 @@
+<res>
+   <item name="res/game/amount.fnt" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/amount.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/timer.fnt" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/timer.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/fudai.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/odd.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/hot.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/hot.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/card.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/but.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon" type="" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/win.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/lose.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/bat.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/bat.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/bet.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/double.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/logo.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/dragon/poolani.sk" type="SkeletonPlayer" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/loading/loadbar.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=30,0,28,0" picType="0"/>
+   <item name="res/loading/barbg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=20,35,23,35" picType="0"/>
+   <item name="res/game/notice_btn.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0"/>
+   <item name="res/game/poker_black.fnt" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/poker_black.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/poker_red.fnt" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+   <item name="res/game/poker_red.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0"/>
+</res>
